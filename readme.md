@@ -8,7 +8,7 @@ C'est moi qui commence le fichier readme. A vous de jouer.
 public void hello {
   System.out.println("Hello World");
 }
-
+```
 # Cours Java pour les Geeks
 
 Les cours de JAVA sont trop faciles ! Voici la solution a tous vos problèmes !
